@@ -1,6 +1,6 @@
 HMMER3/f [3.1b2 | February 2015]
 NAME  MFS_1
-ACC   PF07690.15
+ACC   PF07690.18
 DESC  Major Facilitator Superfamily
 LENG  353
 ALPH  amino
@@ -9,15 +9,15 @@ MM    no
 CONS  yes
 CS    no
 MAP   yes
-DATE  Sun Jan 22 19:06:12 2017
+DATE  Sun Feb 21 17:06:09 2021
 NSEQ  192
 EFFN  22.819336
 CKSUM 131623912
-GA    32.60 32.60;
-TC    32.60 32.60;
-NC    32.50 32.50;
+GA    33.40 33.40;
+TC    33.40 33.40;
+NC    33.30 33.30;
 BM    hmmbuild HMM.ann SEED.ann
-SM    hmmsearch -Z 26740544 -E 1000 --cpu 4 HMM pfamseq
+SM    hmmsearch -Z 57096847 -E 1000 --cpu 4 HMM pfamseq
 STATS LOCAL MSV      -11.7425  0.70006
 STATS LOCAL VITERBI  -12.7718  0.70006
 STATS LOCAL FORWARD   -5.7482  0.70006

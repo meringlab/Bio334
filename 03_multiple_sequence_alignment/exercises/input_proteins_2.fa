@@ -283,7 +283,7 @@ A-S----VQLLSY--YSIGSLAS------VLLLAVLL-NR-------WVK------PVFI
 TLLYPIITLCTLAVMLTVHI-------------------PVVLDI-----------TAFF
 ----LGFSTAGVF----QITITLMTELFW---------------KRKG-----TVTGIVA
 -TASS-LASILLP
->A0A027U3K7_ECOLX/39-413
+>A0A0A0F577_ECOLX/39-413
 FLFVLFIFSFLDRI-------------NIGFA-------GL-TM--------------GR
 D------------------------------------------LG---------------
 -------------------------LSATM-----FGL----ATTL---FYA--AY---V
@@ -343,7 +343,7 @@ H-S----AVLNMP--LGAIEVAA------MFISGVLC-KV-------FKN------GRLL
 IGVFMNCLTLAGCLMIWKIP-----------------DSNPYGRL---------------
 ----VGV-WFTMW----VPASSALLLSLI----SS---------NVAGYTKKTVTSATVF
 -VFYS-VGNIVSP
->E7KRF3_YEASL/86-451
+>THI73_YEAST/86-451
 LCCTYLLMFLDKAL-------------LNYAA-------SM-GI--------------KD
 H------------------------------------------LK---------------
 ---------------------------GNE-----FSN----LGTI---FSA--AY---I
@@ -373,7 +373,7 @@ LYF-------VRFG----IEDWMPI------Y--------LSQVANMSE-----------
 IGAIGLFVLAAIVFVYERLT-----------------ATGAPNYF----------LLLVI
 ----AGI-LGSLIY-GPQLIVNILTINFV----PL---------NVAG-----TAIGFVG
 -VTAY-LIGNMGA
->Q8X543_ECO57/36-398
+>A0A0H3JIV2_ECO57/36-398
 IWLGYALFYFTRKS-------------FNAAV-------PE-IL--------------AN
 G------------------------------------------VL---------------
 --------------------------SRSD-----IGL----LATL---FYI--TY---G
@@ -568,7 +568,7 @@ VCS-----GVALISVQYGILVFTVL------Y--------LHETLEIG------------
 MVCLGAVILGLLALVLLPLQ------------------SPLGMGL-----------VVAW
 ----LGFFGFGW-----YGPWVAYVADTA----PV---------GKTG-----FALGLAM
 -AINQ-LAIVLAP
->Q986D7_RHILO/41-396
+>A0A1A5IAI4_RHILI/41-396
 VAANASFSATFSGI-------------PATAV----------VL--------------RQ
 G------------------------------------------YH---------------
 -------------------------LSNAE-----LGL----ALGV---LGL--GV---A
@@ -1243,7 +1243,7 @@ V------PRGDMSQYYVMGGVVSVLA---MQLGGYWM-DR-------VGP------MRIT
 MWLGGLIIAIVWDGFLGSPL-----------------LPTIVVFT-----------LFMV
 ----VTS-TRTIT----AAAVTSQVAEPG---------------ERAG------FMSLQN
 -VFQH-IFSGSAA
->Q986N1_RHILO/24-356
+>A0A1A5JJW4_RHILI/24-356
 LLTGCIAVIGSNSL------------VLGPIA-------P--AV--------------AS
 S------------------------------------------FA---------------
 -------------------------TSVPA-----VMV----AAAA---FGL--GT---S
@@ -1288,7 +1288,7 @@ VMT-----FLVVLAHFGAYTYVTPF---------------LEQVTHVS------------
 TFAAAALMIAGATVLLPVLG-----------------KEDLGAVA-----------LLVL
 ----WGV-AYGAV----PVCSQTWFAKAS---------------PDSP-----EASSVLF
 TASFQ-ATISIGA
->Q8PQM0_XANAC/29-361
+>A0A0U5FHH1_XANCI/29-361
 MSLCVALLIASEFM-------------PVSLL-------TP--I--------------AS
 D------------------------------------------LH---------------
 -------------------------ASAGM-----AGQ----AISI---SGL--FA---V
@@ -1348,7 +1348,7 @@ L-P----G-LLLA--FGVGAVIGN-----L-SSGYLA-DR-------LGA------TRVV
 TASLISALAVSLMIAFGLHF-----------------LTRDLAGLLL-------IGIMVP
 ----WGIVGWAFP----PAQASRIVGFAP---------------EVAH-----LTLSLNA
 -SAIY-LGIATGT
->Q8X5A5_ECO57/8-341
+>A0A6I4LHI2_9ENTR/8-341
 LALGTFGLGMAEFG-------------IMGVL-------T--EL--------------AH
 N------------------------------------------VG---------------
 -------------------------ISIPA-----AGH----MISY---YAL--GV---V
@@ -1363,7 +1363,7 @@ A-M----TFIMML--VGLGMVLG------NMLSGRIS-GR-------YSP------LRIA
 AVTDFIIVLALLMLFFCGGM-----------------KTTSLIFA-----------FICC
 ----AGL--FALS----APLQILLLQN-----------------AKGG-----ELLGAAG
 GQIAFNLGSAVGA
->Q8PQ23_XANAC/19-356
+>A0A0U5BZ02_XANCI/19-356
 MAAATGLAVASNYY-------------AQPLL-------E--TL--------------AQ
 A------------------------------------------FG---------------
 -------------------------IQVRS-----AGA----VVTA---AQL--AY---A
@@ -2428,7 +2428,7 @@ SFA-----IMLYVGVETAIYVWMPT------L--------LADYKGPA------------
 VAICSVAILICFAAALAGGR------------------------------------AVAV
 ----YSLPISGLFMSVLYPTINSKGISCF----PK---------AEHG-----SVSGVIL
 -FFTC-VSAVIAP
->Q97XW7_SULSO/20-385
+>Q97XW7_SACS2/20-385
 LMFASLAIGYFMWG-------------VIASI--------------------------AP
 L-----------------------------------------------------------
 -------------------------IYPNI-----NSV----LFLLTPTFAT-------L
@@ -2533,7 +2533,7 @@ D------PLELSYLESTIAGGLILGA---I-MIGIIN-LRSK--RGLLII------IRLT
 VMGVAIALLGQVVSLWQAIF------------------------------------VLAI
 ----LGM-GISIG----DIPARAVVQEKT----DF---------DKIG-----RVMGMMS
 -TASS----GLIP
->O32859_MYCFO/12-364
+>TAP_MYCFO/12-364
 ILFAALTAGAGNGI-------------TIVAF-------PW-LV--------------LQ
 H------------------------------------------NG---------------
 --------------------------SALD-----ASI----VAMA---GTL--PL---L
@@ -2788,7 +2788,7 @@ V-G---EDLVVGLLFIGALALLGAGA---V-FFGRLA-DK-------WGR------VKTF
 RLGLIGGLLALVVLNISLHFGL-------------GPVESIAITA-----------PLLF
 --------LTSAI----GPSILALIGDEA----DI---------RYRG-----TIMGIYS
 -VMLG-LGIGVGS
->P95852_SULSF/9-333
+>P95852_SACSO/9-333
 FTILVFFTGLYLGT-------------LRIII-------P--VF--------------EK
 Q------------------------------------------IN---------------
 -------------------------ISIM------LSL----LLPL---VSFGFVK---G
