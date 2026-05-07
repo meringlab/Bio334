@@ -7,7 +7,8 @@ parser.add_argument('-i',action='store',dest='input', help='input file ')
 parser.add_argument('-o',action='store',dest='output', help='output file ')
 args = parser.parse_args()
 
-align = AlignIO.read(args.input, "stockholm")
+with open(args.input, "r", encoding="utf-8-sig") as handle:
+    align = AlignIO.read(handle, "stockholm")
 
 align_dict=dict()
 
